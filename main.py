@@ -1,6 +1,6 @@
 # Proje yapanlar:
-# Göktuğ Gökçen
-# Alparslan Özuygur
+# Göktuğ Gökçen  @Gktg-Gokcen
+# Alparslan Özuygur  @AlparslanOzuygur
 # Selim Oğuz Şahin  @loneoddaeth
 # Naci Karataş  @nacikaratas
 # Onurcan Aşar  @onurcanx
