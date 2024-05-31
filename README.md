@@ -74,8 +74,7 @@ Bu proje MIT Lisansı altında lisanslanmıştır. Ayrıntılar için `LICENSE` 
 ## İletişim
 Herhangi bir sorunuz veya geri bildiriminiz için yukarıda listelenen katılımcılara GitHub kullanıcı adları üzerinden ulaşabilirsiniz.
 
----
-Bu README dosyası, projenin genel yapısını ve kullanımını özetlemektedir. Projeyi geliştiren ekip üyelerine teşekkür ederiz.
+
 
 ---
 
